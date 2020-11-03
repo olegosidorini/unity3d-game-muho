@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\TargetPoint.js">
+    <Files>
+      <File FileName="Assets\_Scripts\TargetPoint.js" Line="11" Column="1" />
+      <File FileName="Assets\_Scripts\CheckFinish.js" Line="67" Column="16" />
+      <File FileName="Assets\_Scripts\MoveMuho.js" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
